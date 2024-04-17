@@ -19,7 +19,7 @@ import {
   Route,
   HashRouter as BrowserRouter,
   Routes,
-} from "react-router-dom";
+} from "react-router-dom"; 
 
 
 function App() { //functional component
